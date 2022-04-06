@@ -1,3 +1,4 @@
+/* Build a function called `parsePromised`*/
 function parsePromised(json) {
   return new Promise(function (fulfill, reject) {
     try {
